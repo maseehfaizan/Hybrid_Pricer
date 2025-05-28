@@ -1,0 +1,2837 @@
+{
+  "Advertising": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - SalaryAndRelatedExpenses",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - UnbilledReceivables",
+      "Assets - ContractAssets",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "AerospaceAndDefense": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsAndServicesSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "AgriculturalAndFarmMachinery": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - AdvertisementAndMarketing",
+      "IncomeStatement - Expenses - OtherOperatingExpenses",
+      "IncomeStatement - Expenses - FinancialServicesProvisionForCreditLosses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - OtherReceivables",
+      "Assets - FinancingReceivables",
+      "Assets - EquipmentOnLease"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - WarrantyLiabilities"
+    ]
+  },
+  "AgriculturalProductsAndServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "AirFreightAndLogistics": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - OperatingCosts"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - SalariesAndEmployeeBenefits",
+      "IncomeStatement - Expenses - LeaseExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "ApparelRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(purchasesOfPp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "ApparelAccessoriesLuxuryGoods": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue(current)"
+    ]
+  },
+  "ApplicationSoftware": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - SalesAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - CapitalizedContractCosts",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "AutomobileManufacturers": {
+    "revenue": [
+      "IncomeStatement - ConsolidatedIncome - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - AutomotiveOperations - AutomotiveCostOfGoodsSold",
+      "IncomeStatement - FinancialServicesOperations - FinancialServicesCosts"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - AutomotiveOperations - Research&DevelopmentExpense",
+      "IncomeStatement - AutomotiveOperations - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(netTrade/other)",
+      "Assets - Inventory(net)",
+      "Assets - FinanceReceivables(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue/CustomerDeposits"
+    ]
+  },
+  "AutomotivePartsAndEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - Research&DevelopmentExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - ContractAssets",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "AutomotiveRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue(partsRetail)",
+      "IncomeStatement - Revenues - NetSales/Revenue(carRetail)"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold(partsRetail)"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(netTrade)",
+      "Assets - Inventory(netParts)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue(current)"
+    ]
+  },
+  "Biotechnology": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/ProductSales"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "Brewers": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayableAndAccruedLiabilities"
+    ]
+  },
+  "Broadcasting": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - FilmAndTelevisionCosts",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue",
+      "Liabilities - ProgramRightsObligations"
+    ]
+  },
+  "BroadlineRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndMarketingExpense(sg&a&Marketing)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "BuildingProducts": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - LeaseExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ProductWarrantyReservesCurrent",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "CableAndSatellite": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - MarketingExpenses",
+      "IncomeStatement - Expenses - OperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - RelatedPartyReceivables",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue",
+      "Liabilities - ProgramRightsObligations",
+      "Liabilities - RelatedPartyPayables"
+    ]
+  },
+  "CargoGroundTransportation": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - OperatingCostsAndExpenses"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Salaries,WagesAndEmployeeBenefits",
+      "IncomeStatement - Expenses - FuelCosts",
+      "IncomeStatement - Expenses - OperatingSuppliesAndExpenses",
+      "IncomeStatement - Expenses - InsuranceAndClaims",
+      "IncomeStatement - Expenses - TaxesAndLicenses",
+      "IncomeStatement - Expenses - LeaseExpense",
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - SelfInsuranceReservesCurrent"
+    ]
+  },
+  "CasinosAndGaming": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalNetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - TotalOperatingCosts&Expenses"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(netCasino&Other)",
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/CustomerDeposits"
+    ]
+  },
+  "CommodityChemicals": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ResearchAndDevelopment",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income",
+      "IncomeStatement - OperatingExpenses - RestructuringCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent",
+      "Liabilities - EnvironmentalLiabilitiesCurrent"
+    ]
+  },
+  "CommunicationsEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - SalesAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - ContractAssets",
+      "Assets - CapitalizedContractCosts",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "ComputerAndElectronicsRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - ContractAssets(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "ConstructionAndEngineering": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractReceivables",
+      "Assets - UnbilledContractReceivables",
+      "Assets - RetentionReceivables",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - IncomeTaxesPayable"
+    ]
+  },
+  "ConstructionMachineryAndHeavyTransportationEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - SellingGeneralAndAdministrativeExpenses",
+      "IncomeStatement - Expenses - ResearchAndDevelopmentExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Trade Accounts Receivable (Net)",
+      "Assets - Inventory (Net)",
+      "Assets - Contract Assets",
+      "Assets - Prepaid Expenses & Other Current Assets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "ConstructionMaterials": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - Depreciation,DepletionAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent"
+    ]
+  },
+  "ConsumerElectronics": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - Research&DevelopmentExpense(r&d)",
+      "IncomeStatement - CostsAndExpenses - AdvertisingExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - ContractAssets(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "ConsumerStaplesMerchandiseRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsAndOtherReceivables(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue(current)"
+    ]
+  },
+  "Copper": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfRevenue - CostOfRevenue(excludingD&a)"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ExplorationExpense",
+      "IncomeStatement - OperatingExpenses - EnvironmentalRemediationExpense",
+      "IncomeStatement - OperatingExpenses - ImpairmentCharges",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - Depreciation,DepletionAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(mining&Pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "DataProcessingAndOutsourcedServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - InformationTechnologyAndDataProcessing",
+      "IncomeStatement - Expenses - AdvertisingExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures",
+      "CashFlow - InvestingActivities - SoftwareDevelopmentCosts"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - CommissionsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses",
+      "Assets - DeferredCostsCurrent",
+      "Assets - ContractAssets",
+      "Assets - CapitalizedContractCosts"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities",
+      "Liabilities - CustomerDeposits"
+    ]
+  },
+  "Distillers & Vintners": {
+    "error": "contents must not be empty"
+  },
+  "Distributors": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "DiversifiedSupportServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - LeaseCost",
+      "IncomeStatement - Expenses - AssetImpairmentCharges",
+      "IncomeStatement - Expenses - CapitalizedContractCostAmortization"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses",
+      "Assets - CapitalizedContractCostsCurrent"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - OperatingLeaseLiabilities"
+    ]
+  },
+  "DrugRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsAndOtherReceivables(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "ElectricalComponentsAndEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "ElectronicComponents": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales"
+    ],
+    "cogs": [
+      "IncomeStatement - Revenues - CostOfSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,General,AndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "ElectronicEquipmentAndInstruments": {
+    "revenue": [
+      "IncomeStatement - Revenues - Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Revenues - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - RestructuringCharges",
+      "IncomeStatement - Expenses - ImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets",
+      "Assets - CapitalizedContractCosts"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities",
+      "Liabilities - ProductWarrantyCurrent"
+    ]
+  },
+  "ElectronicManufacturingServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Revenues - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,General,AndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets",
+      "Assets - CapitalizedContractCosts"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "EnvironmentalAndFacilitiesServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - Depreciation,Amortization,AndAccretion"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/deferredRevenueCurrent",
+      "Liabilities - IncomeTaxesPayableCurrent",
+      "Liabilities - AssetRetirementObligationsCurrent"
+    ]
+  },
+  "Fertilizers&AgriculturalChemicals": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - Depreciation,DepletionAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "FoodDistributors": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfRevenue - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - OperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Accounts,Notes,AndLoansReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "FoodRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsAndServiceExcludingDepreciation"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationDepletionAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsAndOtherReceivables(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue(current)"
+    ]
+  },
+  "Footwear": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - MarketingAndAdvertisingExpense",
+      "IncomeStatement - CostsAndExpenses - Research&DevelopmentExpense(r&d)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - ContractAssets(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "Gold": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfSales - TotalCostOfSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - ExplorationAndResearchExpense",
+      "IncomeStatement - OperatingExpenses - GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ReclamationAndRemediationExpense",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - Depreciation,DepletionAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&eAndMineDevelopment)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "HealthCareDistributors": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Software)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "HealthCareEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent"
+    ]
+  },
+  "HealthCareFacilities": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetPatientServiceRevenues"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - SalariesAndBenefits/LaborCosts",
+      "IncomeStatement - CostsAndExpenses - SuppliesExpense"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - OtherOperatingExpenses",
+      "IncomeStatement - CostsAndExpenses - GeneralAndAdministrativeExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories/Supplies",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "HealthCareServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales",
+      "IncomeStatement - Revenues - PremiumsEarned,Net"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold(retail/pharmacy)",
+      "IncomeStatement - CostsAndExpenses - PolicyholderBenefitsAndClaimsIncurred"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Software)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets",
+      "Assets - DeferredPolicyAcquisitionCosts"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable"
+    ]
+  },
+  "HealthCareSupplies": {
+    "revenue": [],
+    "cogs": [],
+    "operating_expenses": [],
+    "d_and_a": [],
+    "capex": [],
+    "stock_based_compensation": [],
+    "nwc_operating_assets": [
+      "Assets - Accounts Receivable",
+      "Assets - Inventories",
+      "Assets - Prepaid Expenses and Other Current Assets"
+    ],
+    "nwc_operating_liabilities": []
+  },
+  "HealthCareTechnology": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "cogs": [],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Software)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent(deferredRevenue)",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "HeavyElectricalEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsAndNotesReceivable",
+      "Assets - ContractAssets",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent",
+      "Liabilities - ProductWarrantyLiabilitiesCurrent"
+    ]
+  },
+  "HomeFurnishings": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - Restructuring&ImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - ContractAssets(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable&AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "HomeImprovementRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities&OtherCurrentLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue(current)"
+    ]
+  },
+  "Homebuilding": {
+    "revenue": [
+      "IncomeStatement - ConsolidatedIncome - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - HomebuildingOperations - CostOfHomeSales"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - HomebuildingOperations - Selling,GeneralAndAdministrativeExpense(sg&a)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Accounts&NotesReceivable(net)",
+      "Assets - Inventory(land,HomesUnderConstruction,CompletedHomes)",
+      "Assets - LandPurchaseOptions&Deposits"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable&AccruedLiabilities",
+      "Liabilities - CustomerDeposits/ContractLiabilities",
+      "Liabilities - WarrantyLiability"
+    ]
+  },
+  "HotelsResortsCruiseLines": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalNetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,Marketing&AdvertisingExpense",
+      "IncomeStatement - CostsAndExpenses - GeneralAndAdministrativeExpense(g&a)",
+      "IncomeStatement - CostsAndExpenses - Technology/ProductDevelopment/R&d"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities&OtherCurrentLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue/CustomerDeposits"
+    ]
+  },
+  "HouseholdProducts": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationDepletionAndAmortization",
+      "CashFlow - OperatingActivities - AmortizationOfIntangibleAssets"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "HumanResourceAndEmploymentServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets",
+      "Assets - FundsHeldForClientsAndRelatedInvestments"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/deferredRevenueCurrent"
+    ]
+  },
+  "ItConsultingAndOtherServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "IndustrialConglomerates": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue/CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - RestructuringAndImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent",
+      "Liabilities - ProductWarrantyLiabilitiesCurrent"
+    ]
+  },
+  "IndustrialGases": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - TotalCostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ResearchAndDevelopment",
+      "IncomeStatement - OperatingExpenses - RestructuringAndOtherCharges",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - ContractAssetsCurrent",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - OperatingLeaseLiabilitiesCurrent",
+      "Liabilities - ContractLiabilitiesCurrent"
+    ]
+  },
+  "IndustrialMachinerySuppliesComponents": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent",
+      "Liabilities - ProductWarrantyLiabilitiesCurrent",
+      "Liabilities - EnvironmentalLiabilitiesCurrent",
+      "Liabilities - RestructuringLiabilitiesCurrent"
+    ]
+  },
+  "IntegratedTelecommunicationServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfEquipment"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - OperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization",
+      "CashFlow - OperatingActivities - AmortizationOfIntangibleAssets"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - PrepaidExpenses",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue",
+      "Liabilities - CustomerAdvances",
+      "Liabilities - OperatingLeaseLiabilities",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "InteractiveHomeEntertainment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - SellingAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization",
+      "CashFlow - OperatingActivities - AmortizationOfIntangibleAssets"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - RoyaltiesPayable",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "InteractiveMediaAndServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - SalesAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative",
+      "IncomeStatement - Expenses - OperatingLeaseExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpenses",
+      "Assets - IncomeTaxesReceivable"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue",
+      "Liabilities - OperatingLeaseLiabilities"
+    ]
+  },
+  "InternetServicesAndInfrastructure": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - SalesAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures",
+      "CashFlow - InvestingActivities - SoftwareDevelopmentCosts"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpenses",
+      "Assets - CapitalizedContractCosts"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "LeisureProducts": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold(products)"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - RoyaltyExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - AdvertisingExpense",
+      "IncomeStatement - CostsAndExpenses - Research&DevelopmentExpense(r&d)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(netPhysicalProducts)",
+      "Assets - Film&EntertainmentProductionCosts(asset)",
+      "Assets - ContractAssets(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue"
+    ]
+  },
+  "LifeSciencesTools&Services": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Software)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - ContractAssetsCurrent",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent(deferredRevenue)"
+    ]
+  },
+  "ManagedHealthCare": {
+    "revenue": [
+      "IncomeStatement - Revenues - PremiumRevenues,Net",
+      "IncomeStatement - Revenues - ServiceRevenuesAndOther",
+      "IncomeStatement - Revenues - NetInvestmentIncome"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - MedicalBenefitsExpense/PolicyholderClaims",
+      "IncomeStatement - CostsAndExpenses - CostOfServices/ProductsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative(operatingExpenses)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Software)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - PremiumsAndOtherReceivables",
+      "Assets - OtherCurrentAssets",
+      "Assets - ReinsuranceRecoverables"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - PolicyholderClaimsAndBenefitsPayable",
+      "Liabilities - AccountsPayableAndAccruedLiabilities",
+      "Liabilities - UnearnedPremiums/ContractLiabilitiesCurrent"
+    ]
+  },
+  "MetalGlassPlasticContainers": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - TotalCostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent"
+    ]
+  },
+  "MoviesAndEntertainment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue"
+    ]
+  },
+  "OtherSpecialtyRetail": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - PreOpeningCosts",
+      "IncomeStatement - CostsAndExpenses - ImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities&OtherCurrentLiabilities"
+    ]
+  },
+  "PackagedFoodsAndMeats": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - SellingGeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - AdvertisingExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationDepletionAndAmortization",
+      "CashFlow - OperatingActivities - AmortizationOfIntangibleAssets"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "PaperAndPlasticPackagingProductsAndMaterials": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ResearchAndDevelopment",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpense/income"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "PassengerAirlines": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalOperatingRevenues"
+    ],
+    "cogs": [
+      "IncomeStatement - OperatingExpenses - AircraftFuelAndOil",
+      "IncomeStatement - OperatingExpenses - Maintenance,Materials,AndRepairs",
+      "IncomeStatement - OperatingExpenses - LandingFeesAndOtherRentals",
+      "IncomeStatement - OperatingExpenses - RegionalCarrierExpenses/CapacityPurchase"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Salaries,Wages,AndBenefits",
+      "IncomeStatement - OperatingExpenses - Selling,Advertising,AndPromotion",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(flightEquipmentAndOther)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - AirTrafficLiability/DeferredRevenue(current)"
+    ]
+  },
+  "PassengerGroundTransportation": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopment",
+      "IncomeStatement - CostsAndExpenses - SalesAndMarketing",
+      "IncomeStatement - CostsAndExpenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - OperatingLeaseLiabilitiesCurrent",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "PersonalCareProducts": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsAndServicesSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - SellingGeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization",
+      "CashFlow - OperatingActivities - AmortizationOfIntangibleAssets"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue(current)"
+    ]
+  },
+  "Pharmaceuticals": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetProductSales/Revenues"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative(andMarketing)"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e&Intangibles)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent(deferredRevenue)"
+    ]
+  },
+  "Publishing": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - OperatingCosts"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - CustomerRelatedLiabilities"
+    ]
+  },
+  "RailTransportation": {
+    "revenue": [
+      "IncomeStatement - Revenues - FreightRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - OperatingExpenses - LaborAndFringeBenefits",
+      "IncomeStatement - OperatingExpenses - Fuel",
+      "IncomeStatement - OperatingExpenses - PurchasedServicesAndMaterials"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - EquipmentAndOtherRents",
+      "IncomeStatement - OperatingExpenses - OtherOperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - MaterialsAndSupplies",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayableAndAccruedLiabilities"
+    ]
+  },
+  "ResearchAndConsultingServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfServices/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - CostsAndExpenses - RestructuringAndImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures&CapitalizedSoftware"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - ContractAssets",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilitiesCurrent",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "Restaurants": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenues"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - Food,Beverage&PackagingCosts(companyOperated)",
+      "IncomeStatement - CostsAndExpenses - LaborCosts(companyOperated)",
+      "IncomeStatement - CostsAndExpenses - Restaurant/storeOperatingExpenses(companyOperated)"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - PreOpeningCosts"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities&OtherCurrentLiabilities",
+      "Liabilities - ContractLiabilities/DeferredRevenue(current)"
+    ]
+  },
+  "SemiconductorMaterialsAndEquipment": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses",
+      "Assets - ContractAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities",
+      "Liabilities - ProductWarranty"
+    ]
+  },
+  "Semiconductors": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - Expenses - AmortizationOfAcquisitionRelatedIntangibleAssets",
+      "IncomeStatement - Expenses - RestructuringCharges",
+      "IncomeStatement - Expenses - AssetImpairmentCharges"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities",
+      "Liabilities - ProductWarranty",
+      "Liabilities - OperatingLeaseLiabilities"
+    ]
+  },
+  "SoftDrinksAndNonAlcoholicBeverages": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsAndServicesSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - SellingGeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - MarketingAndAdvertisingExpense",
+      "IncomeStatement - CostsAndExpenses - OtherOperatingIncome(expense)Net"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - RelatedPartyReceivables",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "SpecialtyChemicals": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative",
+      "IncomeStatement - OperatingExpenses - ResearchAndDevelopment"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - ContractAssetsCurrent",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "Steel": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostOfGoodsSold - CostOfGoodsSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - OperatingExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - OtherReceivables",
+      "Assets - Inventories",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "SystemsSoftware": {
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - SalesAndMarketing",
+      "IncomeStatement - Expenses - GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - CapitalizedContractCosts",
+      "Assets - PrepaidExpenses"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "TechnologyDistributors": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses",
+      "Assets - ContractAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - ContractLiabilities"
+    ]
+  },
+  "TechnologyHardwareStorageAndPeripherals": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "cogs": [
+      "IncomeStatement - Expenses - CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - Expenses - ResearchAndDevelopment",
+      "IncomeStatement - Expenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventory",
+      "Assets - PrepaidExpenses",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - DeferredRevenue",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  },
+  "Tobacco": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsAndServicesSold"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - SellingGeneralAndAdministrativeExpense(sg&a)",
+      "IncomeStatement - CostsAndExpenses - AdvertisingExpense",
+      "IncomeStatement - CostsAndExpenses - ResearchAndDevelopmentExpense",
+      "IncomeStatement - CostsAndExpenses - PensionAndOtherPostretirementBenefitExpense"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable(net)",
+      "Assets - Inventory(net)",
+      "Assets - PrepaidExpenses&OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities",
+      "Liabilities - OtherLiabilitiesCurrent"
+    ]
+  },
+  "TradingCompaniesAndDistributors": {
+    "revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "cogs": [
+      "IncomeStatement - CostsAndExpenses - CostOfGoodsSold/CostOfRevenue"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrative"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(pp&eAndRentalFleet)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - ShareBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - AccountsReceivable",
+      "Assets - Inventories",
+      "Assets - PrepaidExpensesAndOtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayable",
+      "Liabilities - AccruedLiabilities"
+    ]
+  },
+  "WirelessTelecommunicationServices": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenues"
+    ],
+    "operating_expenses": [
+      "IncomeStatement - CostsAndExpenses - Selling,GeneralAndAdministrativeExpense",
+      "IncomeStatement - CostsAndExpenses - OtherOperatingExpenses"
+    ],
+    "d_and_a": [
+      "CashFlow - OperatingActivities - DepreciationAndAmortization"
+    ],
+    "capex": [
+      "CashFlow - InvestingActivities - CapitalExpenditures(network&OtherPp&e)"
+    ],
+    "stock_based_compensation": [
+      "CashFlow - OperatingActivities - StockBasedCompensation"
+    ],
+    "nwc_operating_assets": [
+      "Assets - Accounts&NotesReceivable(subscribers&Equipment)",
+      "Assets - Inventories",
+      "Assets - ContractAssets",
+      "Assets - CapitalizedContractCosts(net)",
+      "Assets - OtherCurrentAssets"
+    ],
+    "nwc_operating_liabilities": [
+      "Liabilities - AccountsPayableAndAccruedExpenses",
+      "Liabilities - DeferredRevenue/ContractLiabilities",
+      "Liabilities - OtherCurrentLiabilities"
+    ]
+  }
+}

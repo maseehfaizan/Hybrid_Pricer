@@ -1,3 +1,5 @@
 api.env
 data/
 sec_filings/
+.env
+Question_Report/
