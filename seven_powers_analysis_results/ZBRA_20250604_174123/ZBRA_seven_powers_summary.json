@@ -1,0 +1,16 @@
+{
+  "ticker": "ZBRA",
+  "total_entries": 10,
+  "powers_distribution": {
+    "No Clear Power": 10
+  },
+  "power_timing_distribution": {
+    "N/A": 10
+  },
+  "swot_distribution": {
+    "none": 10
+  },
+  "high_confidence_findings": [],
+  "strong_powers_identified": [],
+  "errors": 0
+}

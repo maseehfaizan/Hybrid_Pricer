@@ -1,0 +1,1175 @@
+{
+  "IPG": {
+    "sub_industry": "Advertising",
+    "pascal_sub_industry": "Advertising",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AXON": {
+    "sub_industry": "Aerospace & Defense",
+    "pascal_sub_industry": "AerospaceAndDefense",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "DE": {
+    "sub_industry": "Agricultural & Farm Machinery",
+    "pascal_sub_industry": "AgriculturalAndFarmMachinery",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ADM": {
+    "sub_industry": "Agricultural Products & Services",
+    "pascal_sub_industry": "AgriculturalProductsAndServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps"
+    }
+  },
+  "CHRW": {
+    "sub_industry": "Air Freight & Logistics",
+    "pascal_sub_industry": "AirFreightAndLogistics",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ROST": {
+    "sub_industry": "Apparel Retail",
+    "pascal_sub_industry": "ApparelRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "LULU": {
+    "sub_industry": "Apparel, Accessories & Luxury Goods",
+    "pascal_sub_industry": "Apparel,AccessoriesAndLuxuryGoods",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ADBE": {
+    "sub_industry": "Application Software",
+    "pascal_sub_industry": "ApplicationSoftware",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "F": {
+    "sub_industry": "Automobile Manufacturers",
+    "pascal_sub_industry": "AutomobileManufacturers",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "APTV": {
+    "sub_industry": "Automotive Parts & Equipment",
+    "pascal_sub_industry": "AutomotivePartsAndEquipment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AZO": {
+    "sub_industry": "Automotive Retail",
+    "pascal_sub_industry": "AutomotiveRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ABBV": {
+    "sub_industry": "Biotechnology",
+    "pascal_sub_industry": "Biotechnology",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "TAP": {
+    "sub_industry": "Brewers",
+    "pascal_sub_industry": "Brewers",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps"
+    }
+  },
+  "FOXA": {
+    "sub_industry": "Broadcasting",
+    "pascal_sub_industry": "Broadcasting",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AMZN": {
+    "sub_industry": "Broadline Retail",
+    "pascal_sub_industry": "BroadlineRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AOS": {
+    "sub_industry": "Building Products",
+    "pascal_sub_industry": "BuildingProducts",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CHTR": {
+    "sub_industry": "Cable & Satellite",
+    "pascal_sub_industry": "CableAndSatellite",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "JBHT": {
+    "sub_industry": "Cargo Ground Transportation",
+    "pascal_sub_industry": "CargoGroundTransportation",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CZR": {
+    "sub_industry": "Casinos & Gaming",
+    "pascal_sub_industry": "CasinosAndGaming",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "DOW": {
+    "sub_industry": "Commodity Chemicals",
+    "pascal_sub_industry": "CommodityChemicals",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ANET": {
+    "sub_industry": "Communications Equipment",
+    "pascal_sub_industry": "CommunicationsEquipment",
+    "available_accounts": {
+      "frame": "frame"
+    }
+  },
+  "BBY": {
+    "sub_industry": "Computer & Electronics Retail",
+    "pascal_sub_industry": "ComputerAndElectronicsRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "J": {
+    "sub_industry": "Construction & Engineering",
+    "pascal_sub_industry": "ConstructionAndEngineering",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CAT": {
+    "sub_industry": "Construction Machinery & Heavy Transportation Equipment",
+    "pascal_sub_industry": "ConstructionMachineryAndHeavyTransportationEquipment",
+    "available_accounts": {
+      "frame": "frame"
+    }
+  },
+  "MLM": {
+    "sub_industry": "Construction Materials",
+    "pascal_sub_industry": "ConstructionMaterials",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "GRMN": {
+    "sub_industry": "Consumer Electronics",
+    "pascal_sub_industry": "ConsumerElectronics",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "COST": {
+    "sub_industry": "Consumer Staples Merchandise Retail",
+    "pascal_sub_industry": "ConsumerStaplesMerchandiseRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "FCX": {
+    "sub_industry": "Copper",
+    "pascal_sub_industry": "Copper",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "BR": {
+    "sub_industry": "Data Processing & Outsourced Services",
+    "pascal_sub_industry": "DataProcessingAndOutsourcedServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "GPC": {
+    "sub_industry": "Distributors",
+    "pascal_sub_industry": "Distributors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CTAS": {
+    "sub_industry": "Diversified Support Services",
+    "pascal_sub_industry": "DiversifiedSupportServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "WBA": {
+    "sub_industry": "Drug Retail",
+    "pascal_sub_industry": "DrugRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "AME": {
+    "sub_industry": "Electrical Components & Equipment",
+    "pascal_sub_industry": "ElectricalComponentsAndEquipment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "APH": {
+    "sub_industry": "Electronic Components",
+    "pascal_sub_industry": "ElectronicComponents",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps"
+    }
+  },
+  "KEYS": {
+    "sub_industry": "Electronic Equipment & Instruments",
+    "pascal_sub_industry": "ElectronicEquipmentAndInstruments",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "net_income": "IncomeStatement - NetIncome - NetIncome"
+    }
+  },
+  "JBL": {
+    "sub_industry": "Electronic Manufacturing Services",
+    "pascal_sub_industry": "ElectronicManufacturingServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps"
+    }
+  },
+  "RSG": {
+    "sub_industry": "Environmental & Facilities Services",
+    "pascal_sub_industry": "EnvironmentalAndFacilitiesServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CF": {
+    "sub_industry": "Fertilizers & Agricultural Chemicals",
+    "pascal_sub_industry": "FertilizersAndAgriculturalChemicals",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "SYY": {
+    "sub_industry": "Food Distributors",
+    "pascal_sub_industry": "FoodDistributors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets"
+    }
+  },
+  "KR": {
+    "sub_industry": "Food Retail",
+    "pascal_sub_industry": "FoodRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "DECK": {
+    "sub_industry": "Footwear",
+    "pascal_sub_industry": "Footwear",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "NEM": {
+    "sub_industry": "Gold",
+    "pascal_sub_industry": "Gold",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CAH": {
+    "sub_industry": "Health Care Distributors",
+    "pascal_sub_industry": "HealthCareDistributors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "ABT": {
+    "sub_industry": "Health Care Equipment",
+    "pascal_sub_industry": "HealthCareEquipment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "HCA": {
+    "sub_industry": "Health Care Facilities",
+    "pascal_sub_industry": "HealthCareFacilities",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "CI": {
+    "sub_industry": "Health Care Services",
+    "pascal_sub_industry": "HealthCareServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "ALGN": {
+    "sub_industry": "Health Care Supplies",
+    "pascal_sub_industry": "HealthCareSupplies",
+    "available_accounts": {
+      "frame": "frame"
+    }
+  },
+  "SOLV": {
+    "sub_industry": "Health Care Technology",
+    "pascal_sub_industry": "HealthCareTechnology",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "GEV": {
+    "sub_industry": "Heavy Electrical Equipment",
+    "pascal_sub_industry": "HeavyElectricalEquipment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "MHK": {
+    "sub_industry": "Home Furnishings",
+    "pascal_sub_industry": "HomeFurnishings",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "HD": {
+    "sub_industry": "Home Improvement Retail",
+    "pascal_sub_industry": "HomeImprovementRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "DHI": {
+    "sub_industry": "Homebuilding",
+    "pascal_sub_industry": "Homebuilding",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ABNB": {
+    "sub_industry": "Hotels, Resorts & Cruise Lines",
+    "pascal_sub_industry": "Hotels,ResortsAndCruiseLines",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CHD": {
+    "sub_industry": "Household Products",
+    "pascal_sub_industry": "HouseholdProducts",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "ADP": {
+    "sub_industry": "Human Resource & Employment Services",
+    "pascal_sub_industry": "HumanResourceAndEmploymentServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "ACN": {
+    "sub_industry": "IT Consulting & Other Services",
+    "pascal_sub_industry": "ItConsultingAndOtherServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "MMM": {
+    "sub_industry": "Industrial Conglomerates",
+    "pascal_sub_industry": "IndustrialConglomerates",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "APD": {
+    "sub_industry": "Industrial Gases",
+    "pascal_sub_industry": "IndustrialGases",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "DOV": {
+    "sub_industry": "Industrial Machinery & Supplies & Components",
+    "pascal_sub_industry": "IndustrialMachineryAndSuppliesAndComponents",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "T": {
+    "sub_industry": "Integrated Telecommunication Services",
+    "pascal_sub_industry": "IntegratedTelecommunicationServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "EA": {
+    "sub_industry": "Interactive Home Entertainment",
+    "pascal_sub_industry": "InteractiveHomeEntertainment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "GOOGL": {
+    "sub_industry": "Interactive Media & Services",
+    "pascal_sub_industry": "InteractiveMediaAndServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AKAM": {
+    "sub_industry": "Internet Services & Infrastructure",
+    "pascal_sub_industry": "InternetServicesAndInfrastructure",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "HAS": {
+    "sub_industry": "Leisure Products",
+    "pascal_sub_industry": "LeisureProducts",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "A": {
+    "sub_industry": "Life Sciences Tools & Services",
+    "pascal_sub_industry": "LifeSciencesToolsAndServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "CNC": {
+    "sub_industry": "Managed Health Care",
+    "pascal_sub_industry": "ManagedHealthCare",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "BALL": {
+    "sub_industry": "Metal, Glass & Plastic Containers",
+    "pascal_sub_industry": "Metal,GlassAndPlasticContainers",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "LYV": {
+    "sub_industry": "Movies & Entertainment",
+    "pascal_sub_industry": "MoviesAndEntertainment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "TSCO": {
+    "sub_industry": "Other Specialty Retail",
+    "pascal_sub_industry": "OtherSpecialtyRetail",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CPB": {
+    "sub_industry": "Packaged Foods & Meats",
+    "pascal_sub_industry": "PackagedFoodsAndMeats",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "AMCR": {
+    "sub_industry": "Paper & Plastic Packaging Products & Materials",
+    "pascal_sub_industry": "PaperAndPlasticPackagingProductsAndMaterials",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "DAL": {
+    "sub_industry": "Passenger Airlines",
+    "pascal_sub_industry": "PassengerAirlines",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "UBER": {
+    "sub_industry": "Passenger Ground Transportation",
+    "pascal_sub_industry": "PassengerGroundTransportation",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue"
+    }
+  },
+  "EL": {
+    "sub_industry": "Personal Care Products",
+    "pascal_sub_industry": "PersonalCareProducts",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets"
+    }
+  },
+  "BMY": {
+    "sub_industry": "Pharmaceuticals",
+    "pascal_sub_industry": "Pharmaceuticals",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "NWSA": {
+    "sub_industry": "Publishing",
+    "pascal_sub_industry": "Publishing",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CSX": {
+    "sub_industry": "Rail Transportation",
+    "pascal_sub_industry": "RailTransportation",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity"
+    }
+  },
+  "EFX": {
+    "sub_industry": "Research & Consulting Services",
+    "pascal_sub_industry": "ResearchAndConsultingServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue"
+    }
+  },
+  "CMG": {
+    "sub_industry": "Restaurants",
+    "pascal_sub_industry": "Restaurants",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AMAT": {
+    "sub_industry": "Semiconductor Materials & Equipment",
+    "pascal_sub_industry": "SemiconductorMaterialsAndEquipment",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AMD": {
+    "sub_industry": "Semiconductors",
+    "pascal_sub_industry": "Semiconductors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "KO": {
+    "sub_industry": "Soft Drinks & Non-alcoholic Beverages",
+    "pascal_sub_industry": "SoftDrinksAndNonAlcoholicBeverages",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets"
+    }
+  },
+  "ALB": {
+    "sub_industry": "Specialty Chemicals",
+    "pascal_sub_industry": "SpecialtyChemicals",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "NUE": {
+    "sub_industry": "Steel",
+    "pascal_sub_industry": "Steel",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CRWD": {
+    "sub_industry": "Systems Software",
+    "pascal_sub_industry": "SystemsSoftware",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "CDW": {
+    "sub_industry": "Technology Distributors",
+    "pascal_sub_industry": "TechnologyDistributors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "AAPL": {
+    "sub_industry": "Technology Hardware, Storage & Peripherals",
+    "pascal_sub_industry": "TechnologyHardware,StorageAndPeripherals",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+      "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+      "net_income": "IncomeStatement - NetIncome - NetIncome",
+      "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+      "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+      "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  },
+  "MO": {
+    "sub_industry": "Tobacco",
+    "pascal_sub_industry": "Tobacco",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities"
+    }
+  },
+  "FAST": {
+    "sub_industry": "Trading Companies & Distributors",
+    "pascal_sub_industry": "TradingCompaniesAndDistributors",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_equity": "Equity - TotalStockholdersEquity",
+      "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    }
+  },
+  "TMUS": {
+    "sub_industry": "Wireless Telecommunication Services",
+    "pascal_sub_industry": "WirelessTelecommunicationServices",
+    "available_accounts": {
+      "frame": "frame",
+      "total_assets": "Assets - TotalAssets",
+      "total_liabilities": "Liabilities - TotalLiabilities",
+      "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+      "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    }
+  }
+}

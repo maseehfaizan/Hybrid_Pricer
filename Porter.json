@@ -1,0 +1,104 @@
+{
+  "portersFiveForces": [
+    {
+      "name": "Threat of New Entrants",
+      "description": "This force examines how easy or difficult it is for new companies to enter an industry. The easier it is for new companies to enter, the higher the threat. Conversely, significant barriers to entry reduce this threat.",
+      "conditionsForHigherThreat": [
+        "Low economies of scale",
+        "Low product differentiation and weak brand loyalty",
+        "Low capital requirements",
+        "Easy access to distribution channels",
+        "Minimal government regulations or licensing requirements",
+        "Low switching costs for customers",
+        "Readily available technology or know-how"
+      ],
+      "conditionsForLowerThreat": [
+        "High economies of scale",
+        "Strong product differentiation and established brand loyalty",
+        "High capital requirements (e.g., for R&D, infrastructure)",
+        "Restricted or controlled access to distribution channels",
+        "Significant government regulations, patents, or licensing",
+        "High switching costs for customers",
+        "Proprietary technology or unique know-how"
+      ]
+    },
+    {
+      "name": "Bargaining Power of Buyers",
+      "description": "This force assesses the power that customers (buyers) have to drive down prices or demand higher quality or more services. Powerful buyers can squeeze industry profitability.",
+      "conditionsForHigherThreat": [
+        "Buyers are concentrated or purchase in large volumes relative to seller sales",
+        "Products are standardized or undifferentiated",
+        "Buyers face few switching costs when changing suppliers",
+        "Buyers can credibly threaten to integrate backward (produce the product themselves)",
+        "The industry's product is not critical to the buyer's product quality or success",
+        "Buyers are highly price-sensitive (e.g., product is a significant portion of their costs)"
+      ],
+      "conditionsForLowerThreat": [
+        "Buyers are fragmented (many, diffuse buyers)",
+        "Products are highly differentiated",
+        "Buyers face significant switching costs",
+        "Buyers have little credible threat of backward integration",
+        "The industry's product is very important for the quality of the buyer's product or service",
+        "Buyers are less price-sensitive"
+      ]
+    },
+    {
+      "name": "Bargaining Power of Suppliers",
+      "description": "This force looks at the power of suppliers to raise prices or reduce the quality of goods or services they provide. Powerful suppliers can increase costs for industry players.",
+      "conditionsForHigherThreat": [
+        "Supplier group is more concentrated than the industry it sells to",
+        "Suppliers are not heavily dependent on the industry for their revenues",
+        "Industry participants face high switching costs to change suppliers",
+        "Suppliers offer products that are differentiated or have no close substitutes",
+        "Suppliers can credibly threaten to integrate forward into the industry",
+        "The input supplied is critical to the buyer's business"
+      ],
+      "conditionsForLowerThreat": [
+        "Supplier group is fragmented or less concentrated than the industry",
+        "Suppliers are heavily reliant on the industry for their revenues",
+        "Industry participants face low switching costs",
+        "Suppliers offer standardized or undifferentiated products with many substitutes",
+        "Suppliers have little credible threat of forward integration",
+        "Many alternative sources or substitute inputs are available"
+      ]
+    },
+    {
+      "name": "Threat of Substitute Products or Services",
+      "description": "This force considers the likelihood of customers finding alternative ways to meet their needs with products or services from a different industry. The availability of close substitutes can limit the prices companies can charge.",
+      "conditionsForHigherThreat": [
+        "Close substitutes are readily available",
+        "Substitutes offer an attractive price-performance trade-off compared to the industry's product",
+        "Customers' cost of switching to substitutes is low",
+        "Technological advancements are creating new substitutes or improving existing ones"
+      ],
+      "conditionsForLowerThreat": [
+        "Few or no close substitutes exist",
+        "Substitutes have a poor price-performance trade-off",
+        "Customers' cost of switching to substitutes is high",
+        "Differentiated industry products with strong brand loyalty reduce attractiveness of substitutes"
+      ]
+    },
+    {
+      "name": "Intensity of Rivalry Among Existing Competitors",
+      "description": "This force examines the level of competition between existing firms in an industry. High rivalry can lead to price wars, increased marketing expenses, and innovation races, all of which can erode profitability.",
+      "conditionsForHigherThreat": [
+        "Numerous or equally balanced competitors",
+        "Slow industry growth",
+        "High exit barriers (e.g., specialized assets, high exit costs)",
+        "Competitors have high strategic stakes in achieving success",
+        "Products are undifferentiated or commoditized, leading to price-based competition",
+        "Low switching costs for customers",
+        "High fixed costs, encouraging price cutting to utilize capacity"
+      ],
+      "conditionsForLowerThreat": [
+        "Few competitors or a clear market leader (less intense rivalry)",
+        "Rapid industry growth (more room for everyone)",
+        "Low exit barriers",
+        "Competitors have lower strategic stakes or diverse goals",
+        "Products are highly differentiated with strong brand loyalty",
+        "High switching costs for customers",
+        "Low fixed costs"
+      ]
+    }
+  ]
+}

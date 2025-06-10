@@ -14,7 +14,7 @@ company_10k_questions = {
     "Item 1A: Risk Factors": [
         "Which risks does management highlight as the most critical or potentially impactful to {company_name}'s business, financial condition, or operational results?",
         "How does {company_name} characterize the likelihood and potential magnitude of the identified risks? Are any quantified or ranked?",
-        "What risks are unique or particularly pronounced for the industry in which {company_name} operates (e.g., technological obsolescence, commodity price volatility, regulatory changes)?",
+        "What risks are unique or particularly pronounced for the industry in which {company_name} operates?",
         "What are the key operational risks, such as supply chain disruptions, manufacturing issues, reliance on key personnel, or system failures?",
         "What financial risks are disclosed, such as liquidity risk, credit risk, interest rate risk, currency risk, or risks related to debt covenants?",
         "What potential impacts could arise from pending or future litigation, changes in laws/regulations, or compliance failures?",
@@ -24,7 +24,7 @@ company_10k_questions = {
         "How have {company_name}'s risk factors changed since the last reporting period? Are there any new or emerging risks highlighted?"
     ],
     "Item 1C: Cybersecurity": [
-        "How does {company_name} describe its processes for assessing, identifying, and managing material risks from cybersecurity threats? Is there a dedicated committee or executive responsible?",
+        "How does {company_name} describe its processes for assessing, identifying, and managing material risks from cybersecurity threats?",
         "Has {company_name} experienced any cybersecurity incidents that were material or are reasonably likely to be material? If so, what was the nature, scope, and impact?",
         "How do identified cybersecurity risks and previous incidents affect {company_name}'s business strategy, results of operations, or financial condition?",
         "Does {company_name} assess cybersecurity risks associated with its use of third-party service providers (e.g., cloud storage, data processors)?",
@@ -55,7 +55,7 @@ company_10k_questions = {
         "How does management assess the likely outcome of these proceedings?",
         "Are there any recently settled or concluded material legal proceedings whose impact is still being reflected in the financials or operations?"
     ],
-    "Item 7: Management's Discussion and Analysis of Financial Condition and Results of Operations (MD&A)": [
+    "Item 7: Management Discussion and Analysis": [
         "What are the primary factors and trends (e.g., volume, pricing, new products, macroeconomic conditions, etc.) that drove {company_name}'s financial results?",
         "How did each significant business segment perform, and what were the key drivers for each segment's results?",
         "How does management assess {company_name}'s liquidity position and capital resources? What are its primary sources and uses of cash?",
@@ -66,7 +66,7 @@ company_10k_questions = {
         "How does the current period's performance compare to prior periods, and what are the main reasons for significant variances?",
         "What forward-looking statements or expectations does management provide regarding future performance, strategy, or market conditions (while noting these are subject to disclaimers)?"
     ],
-    "Item 7A: Quantitative and Qualitative Disclosures About Market Risk": [
+    "Item 7A: Quantitative and Qualitative Disclosures about Market Risk": [
         "What are the primary market risks {company_name} is exposed to (e.g., interest rate risk, foreign currency exchange rate risk, commodity price risk, equity price risk, etc.)?",
         "How does {company_name} describe its objectives and strategies for managing market risks? Does it use derivatives in any shape or form?",
         "How would changes in interest rates affect {company_name}'s earnings and cash flows, particularly concerning its debt portfolio (fixed vs. variable rate)?",

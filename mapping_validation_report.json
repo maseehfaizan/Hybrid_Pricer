@@ -1,0 +1,1783 @@
+{
+  "total_industries": 90,
+  "complete_mappings": 83,
+  "partial_mappings": 4,
+  "failed_mappings": 4,
+  "account_coverage": {
+    "Advertising": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "AerospaceAndDefense": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "AgriculturalAndFarmMachinery": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "AgriculturalProductsAndServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "AirFreightAndLogistics": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ApparelRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit",
+        "operating_income"
+      ],
+      "coverage_ratio": 0.7692307692307693
+    },
+    "Apparel,AccessoriesAndLuxuryGoods": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "ApplicationSoftware": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "AutomobileManufacturers": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "AutomotivePartsAndEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "AutomotiveRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "total_revenue"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "Biotechnology": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Brewers": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Broadcasting": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit",
+        "operating_income"
+      ],
+      "coverage_ratio": 0.7692307692307693
+    },
+    "BroadlineRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "BuildingProducts": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "CableAndSatellite": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "CargoGroundTransportation": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "comprehensive_income"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "CasinosAndGaming": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "CommodityChemicals": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "CommunicationsEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets"
+      ],
+      "missing": [
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "coverage_ratio": 0.15384615384615385
+    },
+    "ComputerAndElectronicsRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ConstructionAndEngineering": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ConstructionMachineryAndHeavyTransportationEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets"
+      ],
+      "missing": [
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "coverage_ratio": 0.15384615384615385
+    },
+    "ConstructionMaterials": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "ConsumerElectronics": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ConsumerStaplesMerchandiseRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "operating_income"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "Copper": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "DataProcessingAndOutsourcedServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "Distributors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "DiversifiedSupportServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "DrugRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ElectricalComponentsAndEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ElectronicComponents": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "ElectronicEquipmentAndInstruments": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ElectronicManufacturingServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "EnvironmentalAndFacilitiesServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "FertilizersAndAgriculturalChemicals": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "FoodDistributors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "FoodRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Footwear": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Gold": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HealthCareDistributors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HealthCareEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "HealthCareFacilities": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "operating_income"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "HealthCareServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "shares_basic"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "HealthCareSupplies": {
+      "mapped": [
+        "frame",
+        "total_assets"
+      ],
+      "missing": [
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "coverage_ratio": 0.15384615384615385
+    },
+    "HealthCareTechnology": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HeavyElectricalEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HomeFurnishings": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HomeImprovementRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "Homebuilding": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "operating_income",
+        "comprehensive_income"
+      ],
+      "coverage_ratio": 0.7692307692307693
+    },
+    "Hotels,ResortsAndCruiseLines": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "basic_eps",
+        "diluted_eps"
+      ],
+      "coverage_ratio": 0.7692307692307693
+    },
+    "HouseholdProducts": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "HumanResourceAndEmploymentServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ItConsultingAndOtherServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "IndustrialConglomerates": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "IndustrialGases": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "IndustrialMachineryAndSuppliesAndComponents": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "IntegratedTelecommunicationServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "InteractiveHomeEntertainment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "InteractiveMediaAndServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "InternetServicesAndInfrastructure": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "LeisureProducts": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "LifeSciencesToolsAndServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ManagedHealthCare": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_revenue",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "Metal,GlassAndPlasticContainers": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "MoviesAndEntertainment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "OtherSpecialtyRetail": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "PackagedFoodsAndMeats": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "PaperAndPlasticPackagingProductsAndMaterials": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "PassengerAirlines": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities",
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "PassengerGroundTransportation": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "PersonalCareProducts": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Pharmaceuticals": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Publishing": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit",
+        "operating_income"
+      ],
+      "coverage_ratio": 0.8461538461538461
+    },
+    "RailTransportation": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "ResearchAndConsultingServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Restaurants": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "SemiconductorMaterialsAndEquipment": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "Semiconductors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "SoftDrinksAndNonAlcoholicBeverages": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "SpecialtyChemicals": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "Steel": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "operating_income"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "SystemsSoftware": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_revenue"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "TechnologyDistributors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "TechnologyHardware,StorageAndPeripherals": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "Tobacco": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [],
+      "coverage_ratio": 1.0
+    },
+    "TradingCompaniesAndDistributors": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_equity",
+        "total_revenue",
+        "gross_profit",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "total_liabilities"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    },
+    "WirelessTelecommunicationServices": {
+      "mapped": [
+        "frame",
+        "total_assets",
+        "total_liabilities",
+        "total_equity",
+        "total_revenue",
+        "operating_income",
+        "net_income",
+        "comprehensive_income",
+        "basic_eps",
+        "diluted_eps",
+        "shares_basic",
+        "shares_diluted"
+      ],
+      "missing": [
+        "gross_profit"
+      ],
+      "coverage_ratio": 0.9230769230769231
+    }
+  },
+  "missing_accounts": {}
+}

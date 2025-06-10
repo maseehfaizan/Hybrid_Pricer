@@ -188,7 +188,7 @@
       "Liabilities - ContractLiabilities/DeferredRevenue"
     ]
   },
-  "ApparelAccessoriesLuxuryGoods": {
+  "ApparelAccessoriesAndLuxuryGoods": {
     "revenue": [
       "IncomeStatement - Revenues - NetSales/Revenue"
     ],
@@ -1616,7 +1616,7 @@
       "Liabilities - WarrantyLiability"
     ]
   },
-  "HotelsResortsCruiseLines": {
+  "HotelsResortsAndCruiseLines": {
     "revenue": [
       "IncomeStatement - Revenues - TotalNetRevenue"
     ],
@@ -1807,7 +1807,7 @@
       "Liabilities - ContractLiabilitiesCurrent"
     ]
   },
-  "IndustrialMachinerySuppliesComponents": {
+  "IndustrialMachineryAndSuppliesAndComponents": {
     "revenue": [
       "IncomeStatement - Revenues - TotalRevenue"
     ],
@@ -2653,6 +2653,8 @@
     ]
   },
   "SystemsSoftware": {
+    "revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"],
     "cogs": [
       "IncomeStatement - Expenses - CostOfRevenue"
     ],

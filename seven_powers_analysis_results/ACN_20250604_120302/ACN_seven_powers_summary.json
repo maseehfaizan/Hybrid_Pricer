@@ -1,0 +1,29 @@
+{
+  "ticker": "ACN",
+  "total_entries": 2,
+  "powers_distribution": {
+    "Process Power": 2
+  },
+  "power_timing_distribution": {
+    "Stability": 2
+  },
+  "swot_distribution": {
+    "Strength": 2
+  },
+  "high_confidence_findings": [
+    {
+      "power": "Process Power",
+      "swot": "Strength",
+      "confidence": 0.9,
+      "answer_preview": "Accenture's principal services and solutions span across five core areas: Strategy & Consulting, Tec..."
+    },
+    {
+      "power": "Process Power",
+      "swot": "Strength",
+      "confidence": 0.9,
+      "answer_preview": "Accenture operates primarily under a professional services business model, generating revenues by he..."
+    }
+  ],
+  "strong_powers_identified": [],
+  "errors": 0
+}

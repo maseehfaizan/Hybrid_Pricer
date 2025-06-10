@@ -1,0 +1,91 @@
+{
+   "SevenPower":[
+  {
+    "name": "Scale Economies",
+    "definition": "A business in which per unit cost declines as production volume increases.",
+    "benefit": "Reduced cost as production volume increases. This can stem from spreading fixed costs over higher volumes (e.g., Netflix's content costs), learning economies (costs reduce or deliverables improve with cumulative production), or purchasing economies (larger buyers get better input pricing, e.g., Wal-Mart).",
+    "barrier": "Prohibitive costs of share gains for competitors. A smaller competitor faces significantly higher per-unit costs, making it economically unattractive for them to compete on price or match the leader's offering.",
+    "timing": "Takeoff",
+    "keyCharacteristics": [
+      "Intensity is calibrated by the Surplus Leader Margin (SLM), which depends on Industry Economics (significance of fixed cost relative to sales) and Competitive Position (leader's scale advantage relative to the follower)."
+    ]
+  },
+ 
+  {
+    "name": "Network Economies",
+    "definition": "A business in which the value realized by a customer increases as the installed base increases.",
+    "benefit": "A leader with more users can charge higher prices because their product or service is more valuable due to the larger network.",
+    "barrier": "Competitors with fewer users offer less value. This makes it difficult and costly for a follower to attract users; they might even have to offer negative prices (pay users) to entice switching.",
+    "timing": "Takeoff",
+    "keyCharacteristics": [
+      "The Surplus Leader Margin for Network Economies indicates that a leader can price significantly below a follower's breakeven point.",
+      "Intensity is parsed into industry economics (the degree of network effects, δ) and competitive position (the difference in network size)."
+    ]
+  },
+  {
+    "name": "Counter-Positioning",
+    "definition": "A newcomer adopts a new, superior business model which the incumbent does not mimic due to anticipated damage to their existing business.",
+    "benefit": "The new business model is superior due to lower costs and/or the ability to charge higher prices.",
+    "barrier": "The incumbent's rational decision not to adopt the new model because it would harm their current profitable operations (collateral damage). This damage can manifest as Milk (cannibalization), History's Slave (incompatible legacy systems/culture), or Job Security (resistance from employees tied to the old model).",
+    "timing": "Origination",
+    "keyCharacteristics": [
+      "Applies specifically relative to a particular incumbent.",
+      "Not exclusive; multiple challengers can be Counter-Positioned to the same incumbent.",
+      "Distinct from Disruptive Technologies, though can overlap.",
+      "Incumbents often go through 'Five Stages' of reaction: Denial, Ridicule, Fear, Anger, and Capitulation."
+    ]
+  },
+  {
+    "name": "Switching Costs",
+    "definition": "The value loss expected by a customer that would be incurred from switching to an alternate supplier for additional purchases.",
+    "benefit": "A firm with embedded Switching Costs can charge higher prices than competitors for follow-on products or services because customers value compatibility across multiple purchases over time. This benefit only applies to existing customers.",
+    "barrier": "Competitors must compensate customers for these switching costs to win their business, putting the competitor at a cost disadvantage. The barrier arises from the unattractive cost/benefit for the challenger attempting to gain share.",
+    "timing": "Takeoff",
+    "keyCharacteristics": [
+      "Types of Switching Costs: Financial (monetary), Procedural (loss of familiarity, risk/uncertainty, retraining), and Relational (emotional bonds).",
+      "Non-exclusive Power type.",
+      "As a market matures, competition for new customers can arbitrage out the benefit.",
+      "Building product portfolios (e.g., via acquisitions) can boost intensity and coverage.",
+      "Can sometimes help pave the way for other Powers like Network Effects or Branding."
+    ]
+  },
+  {
+    "name": "Branding",
+    "definition": "The durable attribution of higher value to an objectively identical offering that arises from historical information about the seller.",
+    "benefit": "A business with Branding can charge a higher price due to affective valence (good feelings) and/or uncertainty reduction (peace of mind).",
+    "barrier": "Hysteresis and uncertainty. Building trust and positive associations takes significant time and consistent effort, which cannot be quickly replicated or undone.",
+    "timing": "Stability",
+    "keyCharacteristics": [
+      "Requires focus and diligence; can be threatened by dilution or counterfeiting.",
+      "Difficult to change an established brand image.",
+      "Helmer uses a narrow definition, distinct from mere brand recognition.",
+      "Non-exclusive Power type.",
+      "Typically only applicable to certain types of goods where the potential price premium is significant and sustainable."
+    ]
+  },
+  {
+    "name": "Cornered Resource",
+    "definition": "Preferential access at attractive terms to a coveted asset that can independently enhance value.",
+    "benefit": "Value enhancement stemming from the resource, which can manifest as superior deliverables or lower costs.",
+    "barrier": "The asset is exclusively available or available on preferential terms to the company.",
+    "timing": "Origination",
+    "keyCharacteristics": [
+      "To qualify, an asset must pass five tests: Idiosyncratic (not widely available), Non-arbitraged (company doesn't pay a price that eliminates value), Transferable (creates value at other companies), Ongoing (removal would harm returns), and Sufficient (for continued differential returns, assuming operational excellence).",
+      "Specific leadership often fails the sufficiency test."
+    ]
+  },
+  {
+    "name": "Process Power",
+    "definition": "Embedded company organization and activity sets which enable lower costs and/or superior product, and which can be matched only by an extended commitment.",
+    "benefit": "Cost reduction or product improvement resulting from superior, embedded processes within the organization.",
+    "barrier": "The complexity and opacity of these processes make them difficult for competitors to emulate quickly, requiring a significant, extended commitment to match. This involves 'operational excellence, plus hysteresis'.",
+    "timing": "Stability",
+    "keyCharacteristics": [
+      "Described as rare.",
+      "Requires sustained effort over time to build and embed processes deeply.",
+      "Operational excellence alone does not typically result in Power unless it possesses this difficult-to-match barrier."
+    ]
+  }
+]
+}
+

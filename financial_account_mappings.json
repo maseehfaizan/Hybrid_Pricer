@@ -1,0 +1,3442 @@
+{
+  "Advertising": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AerospaceAndDefense": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AgriculturalAndFarmMachinery": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AgriculturalProductsAndServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "AirFreightAndLogistics": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ApparelRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Apparel,AccessoriesAndLuxuryGoods": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ApplicationSoftware": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AutomobileManufacturers": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - ConsolidatedIncome - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - ConsolidatedIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - ConsolidatedIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AutomotivePartsAndEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "AutomotiveRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Biotechnology": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/ProductSales"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Brewers": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Broadcasting": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "BroadlineRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "BuildingProducts": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "CableAndSatellite": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "CargoGroundTransportation": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "CasinosAndGaming": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalNetRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "CommodityChemicals": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "CommunicationsEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - Total Assets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [],
+    "total_revenue": [],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [],
+    "comprehensive_income": [],
+    "basic_eps": [],
+    "diluted_eps": [],
+    "shares_basic": [],
+    "shares_diluted": []
+  },
+  "ComputerAndElectronicsRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ConstructionAndEngineering": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ConstructionMachineryAndHeavyTransportationEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - Total Assets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [],
+    "total_revenue": [],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [],
+    "comprehensive_income": [],
+    "basic_eps": [],
+    "diluted_eps": [],
+    "shares_basic": [],
+    "shares_diluted": []
+  },
+  "ConstructionMaterials": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ConsumerElectronics": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ConsumerStaplesMerchandiseRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Copper": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)Consolidated"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "DataProcessingAndOutsourcedServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "BF.B_ERROR": {
+    "error": "contents must not be empty",
+    "symbol": "BF.B",
+    "sub_industry": "Distillers & Vintners",
+    "timestamp": "2025-06-09 16:05:33"
+  },
+  "Distributors": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(netIncome)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(netIncome)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "DiversifiedSupportServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "DrugRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "ElectricalComponentsAndEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ElectronicComponents": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales"
+    ],
+    "gross_profit": [
+      "IncomeStatement - Revenues - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - Expenses - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "ElectronicEquipmentAndInstruments": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - Revenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - Expenses - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "ElectronicManufacturingServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - Revenues - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - Expenses - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "EnvironmentalAndFacilitiesServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "FertilizersAndAgriculturalChemicals": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)(toParent/commonStockholders)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "FoodDistributors": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostOfRevenue - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "FoodRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Footwear": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Gold": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)(consolidated)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "HealthCareDistributors": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HealthCareEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HealthCareFacilities": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetPatientServiceRevenues"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HealthCareServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HealthCareSupplies": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - Total Assets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [],
+    "total_revenue": [],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [],
+    "comprehensive_income": [],
+    "basic_eps": [],
+    "diluted_eps": [],
+    "shares_basic": [],
+    "shares_diluted": []
+  },
+  "HealthCareTechnology": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HeavyElectricalEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "HomeFurnishings": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "HomeImprovementRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Homebuilding": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - ConsolidatedIncome - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - ConsolidatedIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Hotels,ResortsAndCruiseLines": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalNetRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [],
+    "diluted_eps": [],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "HouseholdProducts": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "HumanResourceAndEmploymentServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "ItConsultingAndOtherServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "IndustrialConglomerates": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(total)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(total)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "IndustrialGases": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)(consolidated)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "IndustrialMachineryAndSuppliesAndComponents": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(total)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(total)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "IntegratedTelecommunicationServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "InteractiveHomeEntertainment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "InteractiveMediaAndServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "InternetServicesAndInfrastructure": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "LeisureProducts": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "LifeSciencesToolsAndServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetRevenues/Sales"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "ManagedHealthCare": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Metal,GlassAndPlasticContainers": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)Consolidated"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "MoviesAndEntertainment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "OtherSpecialtyRetail": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "PackagedFoodsAndMeats": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "PaperAndPlasticPackagingProductsAndMaterials": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)AttributableToCompany/commonStockholders"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "PassengerAirlines": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalOperatingRevenues"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "PassengerGroundTransportation": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity(deficit)"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "PersonalCareProducts": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Pharmaceuticals": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetProductSales/Revenues"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Publishing": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "RailTransportation": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - FreightRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "ResearchAndConsultingServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - DiscontinuedOperationsAndNetIncome - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(total)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(total)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "Restaurants": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenues"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "SemiconductorMaterialsAndEquipment": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Semiconductors": {
+    "frame": "frame",
+    "total_assets": "Assets - TotalAssets",
+    "total_liabilities": [],
+    "total_equity": "Equity - TotalStockholdersEquity",
+    "total_revenue": "IncomeStatement - Revenues - TotalRevenue",
+    "gross_profit": "IncomeStatement - OtherIncomeExpense - GrossProfit",
+    "operating_income": "IncomeStatement - OtherIncomeExpense - OperatingIncome",
+    "net_income": "IncomeStatement - NetIncome - NetIncome",
+    "comprehensive_income": "IncomeStatement - NetIncome - ComprehensiveIncome",
+    "basic_eps": "IncomeStatement - EarningsPerShare - BasicEps",
+    "diluted_eps": "IncomeStatement - EarningsPerShare - DilutedEps",
+    "shares_basic": "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic",
+    "shares_diluted": "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+  },
+  "SoftDrinksAndNonAlcoholicBeverages": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "SpecialtyChemicals": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome/Ebit"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)AttributableToCompany/commonStockholders"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Steel": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - GrossProfit - GrossProfit"
+    ],
+    "operating_income": [],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)Consolidated"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "SystemsSoftware": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "TechnologyDistributors": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "TechnologyHardware,StorageAndPeripherals": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncome - ComprehensiveIncome"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  },
+  "Tobacco": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - Total Stockholders' Equity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - CostsAndExpenses - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - NetIncome - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(loss),NetOfTax"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareBasic"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - EarningsPerShareDiluted"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "TradingCompaniesAndDistributors": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [],
+    "total_equity": [
+      "Equity - TotalStockholdersEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - NetSales/Revenue"
+    ],
+    "gross_profit": [
+      "IncomeStatement - OtherIncomeExpense - GrossProfit"
+    ],
+    "operating_income": [
+      "IncomeStatement - OtherIncomeExpense - OperatingIncome(loss)"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncomeAndEps - NetIncome(loss)"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - NetIncomeAndEps - ComprehensiveIncome(loss)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - NetIncomeAndEps - BasicEarningsPerShare"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - NetIncomeAndEps - DilutedEarningsPerShare"
+    ],
+    "shares_basic": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - NetIncomeAndEps - WeightedAverageSharesOutstandingDiluted"
+    ]
+  },
+  "WirelessTelecommunicationServices": {
+    "frame": [
+      "frame"
+    ],
+    "total_assets": [
+      "Assets - TotalAssets"
+    ],
+    "total_liabilities": [
+      "Liabilities - TotalLiabilities"
+    ],
+    "total_equity": [
+      "Equity - TotalEquity"
+    ],
+    "total_revenue": [
+      "IncomeStatement - Revenues - TotalRevenues"
+    ],
+    "gross_profit": [],
+    "operating_income": [
+      "IncomeStatement - OperatingIncome - OperatingIncome"
+    ],
+    "net_income": [
+      "IncomeStatement - NetIncome - NetIncome(loss)Consolidated"
+    ],
+    "comprehensive_income": [
+      "IncomeStatement - ComprehensiveIncome - ComprehensiveIncome(consolidated)"
+    ],
+    "basic_eps": [
+      "IncomeStatement - EarningsPerShare - BasicEps(net)"
+    ],
+    "diluted_eps": [
+      "IncomeStatement - EarningsPerShare - DilutedEps(net)"
+    ],
+    "shares_basic": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesBasic"
+    ],
+    "shares_diluted": [
+      "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
+    ]
+  }
+}
