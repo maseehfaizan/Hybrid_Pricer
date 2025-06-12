@@ -233,7 +233,7 @@
       "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
     ]
   },
-  "Apparel,AccessoriesAndLuxuryGoods": {
+  "ApparelAccessoriesAndLuxuryGoods": {
     "frame": [
       "frame"
     ],
@@ -1977,7 +1977,7 @@
       "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
     ]
   },
-  "Hotels,ResortsAndCruiseLines": {
+  "HotelsResortsAndCruiseLines": {
     "frame": [
       "frame"
     ],
@@ -3279,7 +3279,7 @@
       "IncomeStatement - EarningsPerShare - WeightedAverageSharesDiluted"
     ]
   },
-  "TechnologyHardware,StorageAndPeripherals": {
+  "TechnologyHardwareStorageAndPeripherals": {
     "frame": [
       "frame"
     ],
